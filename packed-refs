@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+349500bb917a100c9fafa46072973d66835274cc refs/remotes/origin/add-license-1
+b3ee22bd6f9e06cd899e88bdfaabfef46b40d35b refs/remotes/origin/dev-1
+e2b6fe1611caf48ca9b5bd7a7b6901019686ed16 refs/remotes/origin/dev-auth
+d1e57a056f4e8f4e3b22edc6c31262733bbe106d refs/remotes/origin/dev-backend
+693395e418266ebf3ef60fe7394a5743624e9d35 refs/remotes/origin/dev-backend-1
+b53329364967c21f7ea67fe97736697832cecc07 refs/remotes/origin/dev-backend-2
+243f6ea80da7854905d55a6507e90aa44335a948 refs/remotes/origin/main
+5287c1146b0b1288a236e988a815e4a2ecd3f8e7 refs/remotes/origin/pkini2002-patch-1
+bd58486fed9aa8e91cfaef76ec19b19cf344e057 refs/remotes/origin/pkini2002-patch-2
